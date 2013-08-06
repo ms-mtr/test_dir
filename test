@@ -1,3 +1,5 @@
 diffを使ってみる
 
 git diff -pも使ってみる
+
+git commit -vも試す
